@@ -1,6 +1,9 @@
 {
-  "name": "Dr.IMANKAKHKI",
+  "name": "clinic",
   "version": "0.0.1",
+   "engines": {
+    "node": "24.x"
+  },
   "description": "",
   "keywords": "",
   "license": "",
